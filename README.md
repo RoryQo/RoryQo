@@ -10,5 +10,10 @@
 ⚡ Fun fact: did you know that sharks are older than trees and have survived five mass extinction events? Their resilience inspires me to embrace challenges and seek innovative solutions in my field! 🦈
 
 📈 GitHub Stats
+| ![Rory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoryQo&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Rory's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoryQo&layout=compact&theme=radical) |
+|---|---|
+
+### Weekly Contribution Activity
 ![Rory's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoryQo&bg_color=ffffff&color=333333&line=ff0000&point=0000ff&area=true&hide_border=true)
+
 
