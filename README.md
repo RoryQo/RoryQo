@@ -6,20 +6,20 @@
 
 👯 I’m looking to collaborate on projects that involve data analysis, predictive modeling, and financial literacy initiatives that make a positive impact on communities.
 
-🤔 I’m eager to explore methodologies in econometric modeling and machine learning applications, including:
+🤔 I’m exploreing methodologies in econometric modeling and machine learning applications, including:
 
-Humanitarian Efforts: Analyzing socio-economic factors to guide resource allocation.
+Student Performance Prediction: Developing models to predict student adaptability to online learning, helping educators optimize their teaching methods.
 
-Finance: Analyzing credit scoring and market trends.
+Tuition Pricing Analysis: Using regression analysis to model college tuition variation and provide insights into pricing strategies.
 
-Healthcare: Utilizing predictive analytics for better outcomes.
+Clustering for Resource Allocation: Employing K-means clustering to categorize countries based on socio-economic factors for humanitarian aid distribution.
 
-Marketing: Implementing customer segmentation strategies.
+Bayesian Analysis for Correlation Studies: Analyzing age correlation in married couples using Bayesian methods to improve predictive accuracy.
 
-Transportation: Optimizing routes for efficiency.
+Time Series Forecasting: Implementing techniques to forecast financial trends based on historical data, supporting better decision-making.
 
 💬 Feel free to ask me about my work as the Head of the Data Analysis Team at the Financial Wellness Center, my research projects on college tuition variation, or any of these machine learning applications!
 
-📫 How to reach me: You can connect with me here on GitHub or email me at [your-email@example.com].
+📫 How to reach me: You can connect with me here on GitHub or email me at RoryQuinlan@pitt.edu
 
-⚡ Fun fact: Just as sharks have adapted and thrived for over 400 million years, I aim to leverage my skills in data analysis and econometrics to adapt to and address pressing economic challenges. Plus, did you know that sharks are older than trees and have survived five mass extinction events? Their resilience inspires me to embrace challenges and seek innovative solutions in my field! 🦈
+⚡ Fun fact: did you know that sharks are older than trees and have survived five mass extinction events?Just as sharks have adapted and thrived for over 400 million years.Their resilience inspires me to embrace challenges and seek innovative solutions in my field! 🦈 I aim to leverage my skills in data analysis and econometrics to adapt to and address pressing economic challenges. Plus,  
