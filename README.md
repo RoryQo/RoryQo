@@ -21,7 +21,7 @@
 ![Regression](https://img.shields.io/badge/Regression%20Analysis-0E76A8?style=flat&logo=statistics&logoColor=white)
 ![Principal Component Analysis](https://img.shields.io/badge/Principal%20Component%20Analysis-1E90FF?style=flat)
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-00BFFF?style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF3D00?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3CB371?style=flat)  <!-- Changed color -->
 
 
 
