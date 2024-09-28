@@ -17,7 +17,7 @@
 
 
 ##### Statistical Techniques
-![Bayesian](https://img.shields.io/badge/Bayesian%20Analysis-800080?style=flat&logo=statistics&logoColor=white)
+![Bayesian](https://img.shields.io/badge/Bayesian%20Analysis-9B59B6?style=flat&logo=statistics&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression%20Analysis-0E76A8?style=flat&logo=statistics&logoColor=white)
 ![Principal Component Analysis](https://img.shields.io/badge/Principal%20Component%20Analysis-1E90FF?style=flat)
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-00BFFF?style=flat)
