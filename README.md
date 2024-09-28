@@ -6,17 +6,7 @@
 
 👯 I’m looking to collaborate on projects that involve data analysis, predictive modeling, and financial literacy initiatives that make a positive impact on communities.
 
-🤔 I’m exploreing methodologies in econometric modeling and machine learning applications, including:
-
-Student Performance Prediction: Developing models to predict student adaptability to online learning, helping educators optimize their teaching methods.
-
-Tuition Pricing Analysis: Using regression analysis to model college tuition variation and provide insights into pricing strategies.
-
-Clustering for Resource Allocation: Employing K-means clustering to categorize countries based on socio-economic factors for humanitarian aid distribution.
-
-Bayesian Analysis for Correlation Studies: Analyzing age correlation in married couples using Bayesian methods to improve predictive accuracy.
-
-Time Series Forecasting: Implementing techniques to forecast financial trends based on historical data, supporting better decision-making.
+🤔 I’m eager to explore methodologies in econometric modeling and machine learning applications in economics research, such as predicting consumer demand, assessing policy impacts, analyzing labor market factors, evaluating financial risk, and exploring income inequality patterns.
 
 💬 Feel free to ask me about my work as the Head of the Data Analysis Team at the Financial Wellness Center, my research projects on college tuition variation, or any of these machine learning applications!
 
