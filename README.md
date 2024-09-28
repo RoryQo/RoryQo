@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 🔭 I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Economics and Statistics. My academic journey has given me a strong foundation in data analysis and econometrics.
 
