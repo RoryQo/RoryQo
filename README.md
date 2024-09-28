@@ -6,6 +6,4 @@
 
 🤔 I’m eager to explore methodologies in econometric modeling and machine learning applications in research, such as predicting consumer demand, assessing policy impacts, analyzing labor market factors, evaluating financial risk, and exploring income inequality patterns.
 
-💬 Feel free to ask me about my work as the Head of the Data Analysis Team at the Financial Wellness Center, my research projects on college tuition variation, or any of these machine learning applications!
-
 ⚡ Fun fact: did you know that sharks are older than trees and have survived five mass extinction events? Their resilience inspires me to embrace challenges and seek innovative solutions in my field! 🦈
