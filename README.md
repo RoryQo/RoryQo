@@ -7,9 +7,9 @@
 
 🔎 I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
 
-👉 **Let’s connect!** I’d love to network with fellow professionals and students. Feel free to reach out on [LinkedIn]([YOUR_LINKEDIN_PROFILE_URL](http://www.linkedin.com/in/rory-quinlan)).
+👉 Let’s connect! I’d love to network with fellow professionals and students. Feel free to reach out on [[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL](http://www.linkedin.com/in/rory-quinlan))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL](http://www.linkedin.com/in/rory-quinlan))
+
 
 ⚡ Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 🦈
 
