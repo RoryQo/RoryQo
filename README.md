@@ -5,7 +5,7 @@
 
 🌱 I’m currently enhancing and applying my skills in data science and econometric modeling, aiming to address real-world economic issues.
 
-🔎 I’m eager to explore methodologies in data science, econometric modeling, and machine learning applications, particularly in research areas such as: analyzing consumer behavior, risk management, improving business efficiencies, and analyzing labor market factors
+🔎 I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
 
 ⚡ Fun fact: did you know that sharks are older than trees and have survived five mass extinction events? Their resilience inspires me to embrace challenges and seek innovative solutions in my field! 🦈
 
