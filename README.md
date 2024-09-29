@@ -24,10 +24,5 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3CB371?style=flat)  <!-- Changed color -->
 
 
-## 📈 GitHub Contributions
-
-### Contribution Stats
-![Rory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoryQo&show_icons=true&hide_border=true&count_private=true&theme=blue)
-
-### Contribution Streak
+###### 📈 GitHub Contributions
 ![Rory's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoryQo&theme=blue&hide_border=true)
