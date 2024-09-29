@@ -22,7 +22,3 @@
 ![Principal Component Analysis](https://img.shields.io/badge/Principal%20Component%20Analysis-1E90FF?style=flat)
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-00BFFF?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3CB371?style=flat)  <!-- Changed color -->
-
-
-###### 📈 GitHub Contributions
-![Rory's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoryQo&theme=blue&hide_border=true)
