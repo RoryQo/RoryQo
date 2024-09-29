@@ -7,7 +7,7 @@
 
 🔎 I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
 
-⚡ Fun fact: did you know that sharks are older than trees and have survived five mass extinction events? Their resilience inspires me to embrace challenges and seek innovative solutions in my field! 🦈
+⚡ Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 🦈
 
 ##### Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
