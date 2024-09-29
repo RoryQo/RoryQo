@@ -9,8 +9,6 @@
 
 ⚡ Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 🦈
 
-👉 Let’s connect! I’d love to network with fellow professionals and students. Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rory-quinlan)
-
 ##### Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
