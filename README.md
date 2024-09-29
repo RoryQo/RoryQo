@@ -3,7 +3,7 @@
  📚 I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Statistics and Economics. My academic journey has given me a strong foundation in data science and econometrics; I have hands-on experience leading a data analysis team focused on enhancing student financial literacy.  | [University Bio](https://www.mqe.pitt.edu/people/ant-122 )
 
 
-🌱 I’m currently enhancing my skills in data science and econometric modeling, focusing on how these tools can solve real-world economic issues.
+🌱 I’m currently enhancing and applying my skills in data science and econometric modeling, focusing on how these tools can solve real-world economic issues.
 
 🔎 I’m eager to explore methodologies in data science, econometric modeling, and machine learning applications in research across domains, such as analyzing consumer behavior, risk management, improving business efficiencies, and analyzing labor market factors
 
