@@ -1,4 +1,3 @@
-#### Hi there 👋
 
 I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Statistics and Economics. My academic journey has given me a strong foundation in data science and econometrics; complemented by hands-on experience leading a data analysis team focused on enhancing student financial literacy. You can learn more about me below!
  
