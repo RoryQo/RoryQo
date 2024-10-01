@@ -1,37 +1,14 @@
 #### Hi there 👋
 
- 📚 I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Statistics and Economics. My academic journey has given me a strong foundation in data science and econometrics; complemented by hands-on experience leading a data analysis team focused on enhancing student financial literacy. You can learn more about me below!
+I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Statistics and Economics. My academic journey has given me a strong foundation in data science and econometrics; complemented by hands-on experience leading a data analysis team focused on enhancing student financial literacy. You can learn more about me below!
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.mqe.pitt.edu/people/ant-122) [![Personal Website](https://img.shields.io/badge/Personal%20Website-View%20Site-00b300?style=flat&logo=github&logoColor=white)](https://roryqo.github.io/Resume/index.html)
 
+I’m currently enhancing and applying my skills in data science and econometric modeling, aiming to address real-world economic challenges.
 
+I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🌱 I’m currently enhancing and applying my skills in data science and econometric modeling, aiming to address real-world economic challenges.
-
-🔎 I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
-
-⚡ Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 🦈
+Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 🦈
 
 ##### Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
