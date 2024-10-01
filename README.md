@@ -7,7 +7,7 @@ I’m currently enhancing and applying my skills in data science and econometric
 
 I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
 
-Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 🦈
+Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 
 
 ##### Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
