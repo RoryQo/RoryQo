@@ -1,5 +1,5 @@
 
-I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Statistics and Economics. My academic journey has given me a strong foundation in data science and econometrics; complemented by hands-on experience leading a data analysis team focused on enhancing student financial literacy. You can learn more about me below!
+I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Statistics and Economics. My academic journey has given me a strong foundation in data science and econometrics; complemented by hands-on experience leading a data analysis team focused on enhancing student financial literacy.Y ou can learn more about my work below.
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.mqe.pitt.edu/people/ant-122) [![Personal Website](https://img.shields.io/badge/Personal%20Website-View%20Site-00b300?style=flat&logo=github&logoColor=white)](https://roryqo.github.io/Personal-Website/)
 
