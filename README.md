@@ -23,4 +23,4 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-00BFFF?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3CB371?style=flat)  <!-- Changed color -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roryqo&bg_color=ffffff&color=000000&line=80b8f5&point=7a7a7a&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roryqo&bg_color=ffffff&color=000000&line=80b8f5&point=7a7a7a&area=true&hide_border=true&area_color=80b8f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
