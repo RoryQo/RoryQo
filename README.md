@@ -5,7 +5,7 @@ I’m a Master’s student in Quantitative Economics at the University of Pittsb
 
 I’m currently enhancing and applying my skills in data science and econometric modeling, aiming to address real-world economic challenges. Explore how I implement these skills in my pinned repositories below.
 
-I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors.
+I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors. 
 
 Fun fact: Sharks have existed longer than trees and have survived five mass extinction events! Their incredible resilience inspires me to embrace challenges and find innovative solutions in my work. 
 
