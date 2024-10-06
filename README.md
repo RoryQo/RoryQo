@@ -3,7 +3,7 @@ I’m a Master’s student in Quantitative Economics at the University of Pittsb
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.mqe.pitt.edu/people/ant-122) [![Personal Website](https://img.shields.io/badge/Personal%20Website-View%20Portfolio-00b300?style=flat&logo=github&logoColor=white)](https://roryqo.github.io/Personal-Website/)
 
-I’m currently enhancing and applying my skills in data science and econometric modeling, aiming to address real-world economic challenges. Explore how I implement these skills in my pinned repositories below, or visit the project section of my portfolio website.
+I’m currently enhancing and applying my skills in data science and econometric modeling, aiming to address real-world economic challenges. Explore how I implement these skills in the project section of my portfolio website or the pinned repositories below!
 
 I’m eager to explore data science, econometric modeling, and machine learning approaches, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors. 
 
