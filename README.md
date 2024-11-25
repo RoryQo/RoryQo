@@ -30,8 +30,8 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 
 ##### Current & Recent Projects
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7c2f0aab5a6fbaa09cf251b9de2d54a9)](https://gist.github.com/RoryQo/7c2f0aab5a6fbaa09cf251b9de2d54a9)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoryQo&repo=Research-Reproduction_Causal-Effect-of-Segregation-on-Poverty-Rates)](https://github.com/RoryQo/Research-Reproduction_Causal-Effect-of-Segregation-on-Poverty-Rates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoryQo&repo=Research-Reproduction_Washington-Female-Socalization)](https://github.com/RoryQo/Research-Reproduction_Washington-Female-Socalization)
 
 
 
