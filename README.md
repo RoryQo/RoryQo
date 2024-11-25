@@ -31,6 +31,5 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 ##### Current/Recent Projects
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7c2f0aab5a6fbaa09cf251b9de2d54a9)](https://gist.github.com/RoryQo/7c2f0aab5a6fbaa09cf251b9de2d54a9)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5e85ef8542903adb8885ff717af258e4)](https://gist.github.com/RoryQo/5e85ef8542903adb8885ff717af258e4)
 
 
