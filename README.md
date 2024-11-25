@@ -28,8 +28,10 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoryQo&bg_color=ffffff&color=000000&line=80b8f5&point=7a7a7a&area=true&hide_border=true&height=300&radius=0&custom_title=Rory's%20Contribution%20Graph&grid=false&days=25&area_color=80b8f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-##### Current/Recent Projects
+##### Current & Recent Projects
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7c2f0aab5a6fbaa09cf251b9de2d54a9)](https://gist.github.com/RoryQo/7c2f0aab5a6fbaa09cf251b9de2d54a9)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5e85ef8542903adb8885ff717af258e4)](https://gist.github.com/RoryQo/5e85ef8542903adb8885ff717af258e4)
+
 
 
