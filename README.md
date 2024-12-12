@@ -12,9 +12,10 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 ##### Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2F6D97?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-2F8F7B?style=flat&logo=html5&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-0075B6?style=flat&logo=tableau&logoColor=white)
+
 
 ##### Statistical Techniques
 ![Bayesian](https://img.shields.io/badge/Bayesian%20Analysis-9B59B6?style=flat&logo=statistics&logoColor=white)
