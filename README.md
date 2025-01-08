@@ -3,7 +3,7 @@ I’m a Master’s student in Quantitative Economics at the University of Pittsb
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.econ.pitt.edu/people/rory-quinlan)
 
-I’m currently enhancing and applying my skills in and econometric modeling, aiming to address real-world economic challenges, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors. Explore how I implement these skills in the pinned repositories below.
+I’m currently enhancing and applying my skills in and econometric modeling, aiming to address real-world economic challenges, particularly in research applications such as analyzing consumer behavior, risk management, improving business efficiencies, and examining labor market factors. Explore how I implement these skills in the pinned repositories section below.
 
 
 Fun fact: Sharks have existed longer than trees and have survived five mass extinction events!
