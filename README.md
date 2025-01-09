@@ -1,5 +1,5 @@
 
-I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Economics and Statistics. You can learn more about my work below. 
+I’m a Master’s student in Quantitative Economics at the University of Pittsburgh, where I also earned my Bachelor’s in Economics and Statistics. You can learn more about my work in my university bio, linked below. 
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.econ.pitt.edu/people/rory-quinlan)
 
