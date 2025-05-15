@@ -30,8 +30,9 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 
 ##### Current & Recent Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoryQo&repo=FRED-Timeseries-Analysis-Package&bg_color=00000000&theme=default)](https://github.com/RoryQo/FRED-Timeseries-Analysis-Package)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoryQo&repo=Premier-League-Revenue-Simulation-Model&bg_color=01000000&theme=default)](https://github.com/RoryQo/Premier-League-Revenue-Simulation-Model)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoryQo&repo=Research-Reproduction_Causal-Effect-of-Government-Transfers-and-Government-Support&bg_color=00000000&theme=default)](https://github.com/RoryQo/Research-Reproduction_Causal-Effect-of-Government-Transfers-and-Government-Support)
+
 
 
 
