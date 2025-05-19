@@ -13,13 +13,11 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2F6D97?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-2F8F7B?style=flat&logo=html5&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0075B6?style=flat&logo=tableau&logoColor=white)
 
 
 ##### Statistical Techniques
 ![Bayesian](https://img.shields.io/badge/Bayesian%20Analysis-9B59B6?style=flat&logo=statistics&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression%20Analysis-0E76A8?style=flat&logo=statistics&logoColor=white)
-![PCA](https://img.shields.io/badge/PCA-5B9BD5?style=flat)
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-1E90FF?style=flat)
 ![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-6A5ACD?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat)
