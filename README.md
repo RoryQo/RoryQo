@@ -3,7 +3,7 @@ I’m a Master’s student in Quantitative Economics at the University of Pittsb
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.econ.pitt.edu/people/rory-quinlan)
 
-I focus on building and applying tools in econometric modeling and computational methods, with a strong interest in integrating AI into economic research. My work spans areas like natural language processing, forecasting, and applied time series analysis, with an emphasis on real-world macroeconomic and policy challenges. You can explore examples of this work in the pinned repositories below.
+I focus on building and applying tools for computational methods and econometric modeling. I am strongly interested in integrating AI into economic research. My work spans areas like natural language processing, forecasting, and applied time series analysis, with an emphasis on real-world macroeconomic and policy challenges. You can explore examples of this work in the pinned repositories below.
 
 
 Fun fact: Sharks have existed longer than trees and have survived five mass extinction events!
