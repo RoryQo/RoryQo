@@ -1,5 +1,5 @@
 
-I am currently a Research Analyst at the Federal Reserve Bank of Cleveland. I attended the University of Pittsburgh where I earned a Master’s in Quantitative Economics and a Bachelor’s in Economics and Statistics. You can learn more about my work in my university bio linked below. 
+I am currently a Research Analyst at the Federal Reserve Bank of Cleveland. I attended the University of Pittsburgh, where I earned a Master’s in Quantitative Economics and a Bachelor’s in Economics and Statistics. You can learn more about my work in my university bio linked below. 
  
  [![University Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.econ.pitt.edu/people/rory-quinlan)
 
