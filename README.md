@@ -1,7 +1,7 @@
 
 I am currently a Research Analyst at the Federal Reserve Bank of Cleveland. I attended the University of Pittsburgh, where I earned a Master’s in Quantitative Economics and a Bachelor’s in Economics and Statistics. You can learn more about my work in my bio linked below. 
  
- [![Bio](https://img.shields.io/badge/University%20Bio-View%20Profile-blue?style=flat)](https://www.clevelandfed.org/people/profiles/q/quinlan-rory-g)
+ [![Bio](https://img.shields.io/badge/FRB%20Bio-View%20Profile-blue?style=flat)](https://www.clevelandfed.org/people/profiles/q/quinlan-rory-g)
 
 My primary research interests are computational methods and econometric modeling. My work spans areas like spatial distributions of economic activities, labor dynamics, and applied time series analysis, with an emphasis on policy applications. You can explore examples of this work in the pinned repositories below.
 
