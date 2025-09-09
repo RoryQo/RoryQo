@@ -17,7 +17,7 @@ Fun fact: Sharks have existed longer than trees and have survived five mass exti
 
 ##### Statistical Techniques
 ![Bayesian](https://img.shields.io/badge/Bayesian%20Analysis-9B59B6?style=flat&logo=statistics&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression%20Analysis-0E76A8?style=flat&logo=statistics&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM%20(Generalized%20Linear%20Models)-0E76A8?style=flat)
 ![Time Series Analysis](https://img.shields.io/badge/Forecasting-1E90FF?style=flat)
 ![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-6A5ACD?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat)
