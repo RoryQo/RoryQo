@@ -3,11 +3,12 @@ I am currently a Research Analyst at the Federal Reserve Bank of Cleveland. I at
  
  [![Bio](https://img.shields.io/badge/FRB%20Bio-View%20Profile-blue?style=flat)](https://www.clevelandfed.org/people/profiles/q/quinlan-rory-g)
 
-[![Economics Letters](https://img.shields.io/badge/Economics%20Letters-View%20Latest%20Paper-blue?style=flat)](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1mZe6bZeeA56M/1/0102019c31f8543f-c3e0802e-7d31-4b6a-8abd-893de1051541-000000/4UwJPfOSvviOKfgMF0L9eKfPO5c=464)
+
 
 
 My primary research interests are computational methods and econometric modeling. My work spans areas like spatial distributions of economic activities, labor dynamics, and applied time series analysis, with an emphasis on policy applications. You can explore examples of this work in the pinned repositories below.
 
+[![Economics Letters](https://img.shields.io/badge/Economics%20Letters-View%20Latest%20Paper-blue?style=flat)](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1mZe6bZeeA56M/1/0102019c31f8543f-c3e0802e-7d31-4b6a-8abd-893de1051541-000000/4UwJPfOSvviOKfgMF0L9eKfPO5c=464)
 
 Fun fact: Sharks have existed longer than trees and have survived five mass extinction events!
 
